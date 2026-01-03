@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a third (6th semester) student in MAKAUT university from Bengal college of engineering and technology.<br>I am a focused student who indulges herself in learning every new thing happening in tech world. I have a keen interest in developing something very useful to this metaverse. <br>Apart from tech world, i like listening songs, dancing is my passion, and play basketball for fun time. <br>I am skilled in languages like JAVA, MYSQL, C++, debugging errors.
+I am a focused student who indulges herself in learning every new thing happening in tech world. I have a keen interest in developing something very useful to this metaverse. <br>Apart from tech world, i like listening songs, dancing is my passion, and play basketball for fun time. <br>I am skilled in languages like JAVA, MYSQL, C++, debugging errors.
 
 
 ## 🌐 Socials:
