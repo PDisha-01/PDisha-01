@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a focused student who indulges herself in learning every new thing happening in tech world. I have a keen interest in developing something very useful to this metaverse. <br>Apart from tech world, i like listening songs, dancing is my passion, and play basketball for fun time. 
+Hi, I am Disha.<br> Aspiring Software Developer with a strong interest in problem-solving, DSA and building real-world applications.<br> Currently improving my skills through leetcode practice, hands-on-projects and continous learning. <br> passionate about writing clean code and growing into a next-generation developer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mallick__disha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dishamallick) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Disha Mallick) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mallickdisha186@gmail.com) 
