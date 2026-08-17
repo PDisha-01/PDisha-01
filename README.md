@@ -83,7 +83,7 @@ Tech: "HTML" "CSS" "JavaScript" "React" "Tailwind CSS"
 
 🔗 Live Portfolio: https://portfolio-sigma-rose-67.vercel.app/
 
-🔗 Repository: "Portfolio" (https://github.com/PDisha-01)
+🔗 Repository: "Portfolio" (https://github.com/PDisha-01/Portfolio)
 
 ---
 
