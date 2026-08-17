@@ -27,7 +27,7 @@ I enjoy working across the stack — from designing responsive interfaces to bui
 
 ## 🚀 Featured Projects
 
-### 🌸 Sakhi — Women Empowerment Platform
+### 🌸 Sakhi — Women Empowerment Platform (currently working)
 
 A full-stack platform designed to bring safety, career opportunities, learning resources and empowerment tools together in one place.
 
