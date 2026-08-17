@@ -112,28 +112,6 @@ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>---
-
-📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PDisha-01&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=39D353&text_color=FFFFFF"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDisha-01&layout=compact&theme=transparent&hide_border=true&title_color=A855F7&text_color=FFFFFF"
-    height="170"
-  />
-</p>---
-
-🔥 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=PDisha-01&theme=transparent&hide_border=true&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE"
-    alt="GitHub Streak"
-  />
-</p>---
 ---
 
 ## 📚 What I'm Learning
