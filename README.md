@@ -63,7 +63,7 @@ Includes
 
 Tech: "Python" "Scikit-learn" "Pandas" "NumPy" "Matplotlib"
 
-🔗 Repository: "Python Machine Learning Laboratory Suite" (https://github.com/PDisha-01)
+🔗 Repository: "Python Machine Learning Laboratory Suite" (https://github.com/PDisha-01/Python-Machine-Learning-Laboratory-Suite)
 
 ---
 
