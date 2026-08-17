@@ -42,7 +42,7 @@ Highlights
 
 Tech: "TypeScript" "React" "Frontend Development" "Full-Stack"
 
-🔗 Repository: "Sakhi" (https://github.com/PDisha-01)
+🔗 Repository: "Sakhi" (https://github.com/PDisha-01/Sakhi---women-empowerment-platform)
 
 ---
 
