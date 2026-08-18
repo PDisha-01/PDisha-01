@@ -186,6 +186,33 @@ A responsive portfolio website showcasing my **projects, technical skills, devel
 - 🎯 Preparing for software engineering opportunities
 
 ---
+# 🏆 Achievements & Certifications
+
+<div align="center">
+
+### 📜 Certifications • 🏅 Hackathons • 🚀 Technical Milestones
+
+</div>
+
+A collection of my certifications, hackathon participation and technical achievements gathered throughout my learning and development journey.
+
+### 📜 Certifications
+
+| Certification | |
+|---|---|
+| 🏅 **78th Independence Day ceremonial parade** | 
+| 🏅 **3rd in photography in NSS Wing** |
+| 🏅 **2nd in memory race, sports committee** |
+| 🏅 **Fit in Deutsch - German certification, level 1** |
+| 🏅 **AWS Certified Solutions by Forage** |
+
+### 🏅 Hackathons & Competitions
+
+| Event | Achievement / Participation |
+|---|---|
+| 🚀 **Pantheon Techfest'25** |  Participant @BIT MESRA, RANCHI |
+
+---
 
 # 💼 Open to Opportunities
 
