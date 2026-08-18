@@ -149,3 +149,37 @@ I believe the best way to learn technology is to build real things with it.
 If you find something interesting here, feel free to ⭐ a repository.
 
 <br>"BUILD • LEARN • CREATE • SHIP"
+
+<!-- PREMIUM_PROFILE_START -->
+
+<div align="center">
+
+<img
+src="./terminal-card.svg"
+width="100%"
+alt="Animated ASCII terminal"
+/>
+
+<br/>
+
+<img
+src="./info-card.svg"
+width="100%"
+alt="Animated developer information card"
+/>
+
+</div>
+
+<br/>
+
+<p align="center">
+
+<img
+src="./github-contribution-animation.svg"
+width="100%"
+alt="Animated GitHub contribution graph"
+/>
+
+</p>
+
+<!-- PREMIUM_PROFILE_END -->
