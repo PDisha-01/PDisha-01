@@ -48,23 +48,6 @@ alt="Developer information card"
 
 ---
 
-## 👩‍💻 About Me
-
-I'm a **Full-Stack Developer and AI/ML enthusiast** who enjoys turning ideas into practical, user-focused applications.
-
-I like working across the stack—from designing interfaces and building APIs to exploring machine learning and computer vision.
-
-- 🚀 Building real-world applications
-- 💻 Full-Stack Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Data Structures & Algorithms
-- 🔍 Computer Vision & intelligent systems
-- 🌱 Continuously learning and improving
-- 🎯 Preparing for software engineering opportunities
-
-> **Build. Learn. Create. Ship.**
-
----
 
 ---
 
