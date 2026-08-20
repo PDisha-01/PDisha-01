@@ -53,130 +53,96 @@ alt="Developer information card"
 </table>
 
 ---
-
-
----
-
 # 🚀 Featured Projects
 
 <div align="center">
 
-## 🌸 Sakhi — Women Empowerment Platform
-
-**My flagship full-stack project**
-
-</div>
-
-Sakhi is a women-focused digital platform designed to bring together **safety, career development, employment, learning and mentorship** in one place.
-
-### ✨ Key Features
-
-- 🛡️ **Safety Centre** — safety resources and emergency support
-- 💼 **Career** — career development and professional opportunities
-- 🔎 **Jobs** — job discovery and filtering
-- 💻 **Freelancing** — freelancing and independent work opportunities
-- 🤝 **Mentorship** — professional guidance and mentorship
-- 📚 **Skills & Learning** — learning resources and skill development
-- 📊 **Dashboard** — centralized user experience
-
-### 🛠️ Tech Stack
-
-`React` `JavaScript` `Tailwind CSS` `APIs` `Git` `GitHub`
-
-### 🚧 Status
-
-**🟢 Actively Developing**
-
-> Building Sakhi step-by-step with a focus on creating a practical and scalable platform for women's empowerment.
-
----
-
-<div align="center">
-
-## 🤖 SAIL-ML
-
-**Machine Learning Project**
+| 🌸 **Sakhi**                                                 | 🧠 **NEXORA AI**                     | 🤖 **SAIL-ML**                  | 🌐 **Portfolio**                    |
+| ------------------------------------------------------------ | ------------------------------------ | ------------------------------- | ----------------------------------- |
+| **Women Empowerment Platform**                               | **AI-Powered Intelligent System**    | **Machine Learning Project**    | **Developer Portfolio**             |
+| 🟢 Actively Developing                                       | 🟢 **Working On**                    | 🟡 Developing                   | 🟢 Live                             |
+| Safety • Career • Jobs • Mentorship                          | AI • ML • Intelligent Systems        | ML • Data • Models              | Projects • Skills • Achievements    |
+| `React` `Tailwind` `Node.js` `Express` `Prisma` `PostgreSQL` | `Python` `AI` `ML` `Data Processing` | `Python` `ML` `Data Processing` | `React` `JavaScript` `CSS` `Vercel` |
 
 </div>
 
-SAIL-ML represents my work in **Machine Learning and intelligent systems**, focusing on applying ML concepts to real-world problems.
 
-### ✨ Focus Areas
-
-- 🧠 Machine Learning
-- 📊 Data preprocessing
-- 🔍 Data analysis
-- ⚙️ Feature engineering
-- 🤖 Model development
-- 📈 Model evaluation
-- 🧪 Experimentation and optimization
-
-### 🛠️ Tech Stack
-
-`Python` `Machine Learning` `Data Processing` `Model Evaluation`
-
-### 🚧 Status
-
-**🟡 Developing**
-
----
+## 🛠️ TECHNICAL ARSENAL
 
 <div align="center">
 
-## 🌐 Personal Portfolio
+<table> <tr>
 
-**My developer portfolio and personal brand**
+<td width="50%" valign="top">
 
-<a href="https://portfolio-sigma-rose-67.vercel.app/">
+## 💻 Languages
 
-<img src="https://img.shields.io/badge/🌐%20View%20Portfolio-22d3ee?style=for-the-badge&labelColor=0d1117"/>
+Python JavaScript TypeScript
+HTML CSS
 
-</a>
+## 🎨 Frontend
+
+React Tailwind CSS
+Responsive UI Design
+
+## ⚙️ Backend
+
+Flask Node.js
+REST APIs Prisma
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 AI / ML
+
+Machine Learning Computer Vision
+OpenCV YOLO
+
+## 🗄️ Database
+
+MySQL PostgreSQL
+
+🔧 Tools & Platforms
+
+Git GitHub VS Code Vercel
+
+</td>
+
+</tr> </table>
+
+</div>
+📊 Analytics & Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PDisha-01&bg_color=0d1117&color=8b5cf6&line=6366f1&point=a855f7&area=true&hide_border=true" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PDisha-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+
+<img src="https://streak-stats.demolab.com?user=PDisha-01&theme=tokyonight&hide_border=true" height="180" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDisha-01&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
-A responsive portfolio website showcasing my **projects, technical skills, development journey and professional profile**.
-
-### 🛠️ Tech Stack
-
-`React` `JavaScript` `CSS` `Responsive Design`
-
-### 🚧 Status
-
-**🟢 Live & Continuously Improving**
-
----
-# 🛠️ TECHNICAL ARSENAL
-
-### 💻 Languages
-`Python` `JavaScript` `TypeScript` `HTML` `CSS`
-
-### 🎨 Frontend
-`React` `Tailwind CSS` `Responsive UI Design`
-
-### ⚙️ Backend
-`Flask` `Node.js` `REST APIs` `Prisma`
-
-### 🤖 AI / ML
-`Machine Learning` `Computer Vision` `OpenCV` `YOLO`
-
-### 🗄️ Database
-`MySQL`
-
-### 🔧 Tools & Platforms
-`Git` `GitHub` `VS Code` `Vercel`
-
-
-# 📈 Development Status
+# ☕ Developer Activity
 
 <div align="center">
 
-| Project | Status |
-|---|---|
-| 🌸 **Sakhi** | 🟢 Actively Developing |
-| 🤖 **SAIL-ML** | 🟡 Developing |
-| 🌐 **Personal Portfolio** | 🟢 Live |
-| 🚑 **Smart Emergency Traffic System** | 🟡 Prototype |
+| ☕ Coffee Consumed | 🐛 Bugs Fixed |    🚀 Deployments   |
+| :---------------: | :-----------: | :-----------------: |
+|   **127+ cups**   |  **500+ bugs** | **10+ deployments** |
+
+</div>
+
+<div align="center">
+
+**☕ Code → 🐛 Debug → 🚀 Deploy → 🔁 Repeat**
 
 </div>
 
@@ -214,9 +180,9 @@ A collection of my certifications, hackathon participation and technical achieve
 
 ### 🏅 Hackathons & Competitions
 
-| Event | Achievement / Participation |
+| Event | Achievement / Participation | Project |
 |---|---|
-| 🚀 **Pantheon Techfest'25** |  Participant @BIT MESRA, RANCHI |
+| 🚀 **Pantheon Techfest'25** |  Participant @BIT MESRA, RANCHI | Traffic Ops+ - smart traffic management system(prototype)
 
 ---
 
