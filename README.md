@@ -181,7 +181,7 @@ A collection of my certifications, hackathon participation and technical achieve
 ### 🏅 Hackathons & Competitions
 
 | Event | Achievement / Participation | Project |
-|---|---|
+|---|---| ---|
 | 🚀 **Pantheon Techfest'25** |  Participant @BIT MESRA, RANCHI | Traffic Ops+ - smart traffic management system(prototype)
 
 ---
