@@ -23,11 +23,10 @@ ABOUT = "Full-Stack Developer & AI/ML Enthusiast"
 STACK = "Python • React • TypeScript • Flask • AI/ML"
 
 HIGHLIGHTS = [
-    "Building real-world applications",
-    "Sakhi — Women Empowerment Platform",
-    "Learning • Building • Shipping",
+    "AI/ML & Full-Stack Developer",
+    "Building innovative projects",
+    "Open to opportunities"
 ]
-
 # Project / portfolio links
 PORTFOLIO_URL = "https://portfolio-sigma-rose-67.vercel.app/"
 GITHUB_URL = "https://github.com/PDisha-01"
@@ -1059,7 +1058,9 @@ def update_readme():
     profile_block = f"""
 {marker_start}
 
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 <img
 src="./terminal-card.svg"
@@ -1067,7 +1068,9 @@ width="100%"
 alt="Animated ASCII terminal"
 />
 
-<br/>
+</td>
+
+<td width="40%" valign="top">
 
 <img
 src="./info-card.svg"
@@ -1075,7 +1078,9 @@ width="100%"
 alt="Animated developer information card"
 />
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 

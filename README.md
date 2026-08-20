@@ -28,7 +28,9 @@
 <!--                  ANIMATED PROFILE                         -->
 <!-- ========================================================= -->
 
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 <img
 src="./terminal-card.svg"
@@ -36,7 +38,9 @@ width="100%"
 alt="Animated developer terminal"
 />
 
-<br/>
+</td>
+
+<td width="40%" valign="top">
 
 <img
 src="./info-card.svg"
@@ -44,7 +48,9 @@ width="100%"
 alt="Developer information card"
 />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
