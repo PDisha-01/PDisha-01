@@ -1060,7 +1060,7 @@ def update_readme():
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="40%" valign="top">
 
 <img
 src="./terminal-card.svg"
@@ -1070,7 +1070,7 @@ alt="Animated ASCII terminal"
 
 </td>
 
-<td width="40%" valign="top">
+<td width="60%" valign="top">
 
 <img
 src="./info-card.svg"
