@@ -60,7 +60,7 @@ alt="Developer information card"
 | 🌸 **Sakhi**                                                 | 🧠 **NEXORA AI**                     | 🤖 **SAIL-ML**                  | 🌐 **Portfolio**                    |
 | ------------------------------------------------------------ | ------------------------------------ | ------------------------------- | ----------------------------------- |
 | **Women Empowerment Platform**                               | **AI-Powered Intelligent System**    | **Machine Learning Project**    | **Developer Portfolio**             |
-| 🟢 Actively Developing                                       | 🟢 **Working On**                    | 🟡 Developing                   | 🟢 Live                             |
+| 🟢 Live                                       | 🟢 **Working On**                    | 🟡 Developing                   | 🟢 Live                             |
 | Safety • Career • Jobs • Mentorship                          | AI • ML • Intelligent Systems        | ML • Data • Models              | Projects • Skills • Achievements    |
 | `React` `Tailwind` `Node.js` `Express` `Prisma` `PostgreSQL` | `Python` `AI` `ML` `Data Processing` | `Python` `ML` `Data Processing` | `React` `JavaScript` `CSS` `Vercel` |
 
@@ -146,18 +146,7 @@ Git GitHub VS Code Vercel
 
 </div>
 
-### 🔥 Currently Working On
 
-- 🌸 Expanding the **Sakhi Career ecosystem**
-- 💼 Building job search and opportunity features
-- 🤝 Planning mentorship and freelancing modules
-- 📚 Developing skills and learning features
-- 🤖 Strengthening my **Machine Learning** knowledge
-- 💻 Improving full-stack development skills
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🎯 Preparing for software engineering opportunities
-
----
 # 🏆 Achievements & Certifications
 
 <div align="center">
